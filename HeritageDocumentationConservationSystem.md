@@ -1,5 +1,7 @@
 # Eternalizing Heritage, Art, and Culture: Heritage  Documentation Conservation Using An Indexed, Decentralized, and Redundant System of Human and Anthropogenic Networks 
 
+- Created by Devaang Jain (Rituraj Devaang, Email: info@sukhnidhey.com, Social/Info Networks: @SukhnidheyFilms)
+
 Documentation records (hereinafter referred to simply as ‘documentation’) of heritage, art, and culture (hereinafter called ‘heritage entities’ and taken to include both tangible and intangible entities such as historical monuments and folk traditions for this article) play a crucial role in heritage conservation. These records are often stored/retained by centralized entities such as museums, national conservation agencies, remote web servers or government archives and records. Time and again, the grave problems inherent in such an approach to the conservation of heritage documentation has been evident when entire collections have been lost to disasters such as museum fires. The situation is even more serious when a heritage entity is destroyed without there being any documentation in the first place. The loss then is really totally irreplaceable. Entire cultural memories of regions and nations have been lost in this manner when they are, firstly, not documented, and secondly, if this documentation was not subsequently well-conserved. 
 
 
