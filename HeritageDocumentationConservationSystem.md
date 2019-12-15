@@ -1,11 +1,11 @@
-# Eternalizing Heritage, Art, and Culture: Heritage  Documentation Conservation Using An Indexed, Decentralized, and Redundant System of Human and Anthropogenic Networks 
+# Eternalizing Heritage, Art, and Culture: Heritage  Documentation & Documentation Conservation Using An Indexed, Decentralized, and Redundant System of Human and Anthropogenic Networks 
 
 Created by Devaang Jain (Rituraj Devaang), Email: info@sukhnidhey.com, Social/Info Networks: @SukhnidheyFilms
 
-Documentation records (hereinafter referred to simply as ‘documentation’) of heritage, art, and culture (hereinafter called ‘heritage entities’ and taken to include both tangible and intangible entities such as historical monuments and folk traditions for this article) play a crucial role in heritage conservation. These records are often stored/retained by centralized entities such as museums, national conservation agencies, remote web servers or government archives and records. Time and again, the grave problems inherent in such an approach to the conservation of heritage documentation has been evident when entire collections have been lost to disasters such as museum fires. The situation is even more serious when a heritage entity is destroyed without there being any documentation in the first place. The loss then is really totally irreplaceable. Entire cultural memories of regions and nations have been lost in this manner when they are, firstly, not documented, and secondly, if this documentation was not subsequently well-conserved. 
+Documentation records (hereinafter referred to simply as ‘documentation’) of heritage, art, and culture (hereinafter called ‘heritage entities’ and taken to include both tangible and intangible entities such as historical monuments and folk traditions for this methodology) play a crucial role in heritage conservation. These records are often stored/retained by centralized entities such as museums, national conservation agencies, remote web servers or government archives and records. Time and again, the grave problems inherent in such an approach to the conservation of heritage documentation have been evident when entire collections have been lost to disasters such as museum fires. The situation is even more serious when a heritage entity is destroyed without there being any documentation in the first place. The loss then is really totally irreplaceable. Entire cultural memories of regions and nations have been lost in this manner when they are, firstly, not documented, and secondly, if this documentation was not subsequently well-conserved. 
 
 
-## Questioning heritage documentation approaches
+## Questioning & evaluating current heritage documentation approaches and the proposed documentation methodology
 
 The importance of documenting heritage using mechanisms specific to the heritage type cannot be overemphasized; in particular, the use of films, photography, and 3D tools is of utmost importance to ensure documentation that is as complete in its scope as possible. 
 
@@ -14,6 +14,16 @@ Experts around the world have been traditionally relying on drawings, notes, and
 Documentation, in the real sense of the word, can be deemed successful  only if the virtual representation of the heritage entity ‘captured’ (and referred to as the ‘documentation’ of the entity) covers (documents) as many aspects/facets of the entity as possible, stimulating as many sensory organs in the observer as possible while also attaining the highest possible degree of closeness to the real heritage entity itself to ensure scientific value. 
 
 Mathematically, in set theoretic terms, the aim should be to target a documentation set (D) such that the difference of the real-world heritage entity set (R) and the documentation set (D) has minimal number of elements (cardinality), i.e. the R — D or R \ D set should have minimal cardinality.  
+
+It is also important that this cardinality be evaluated as perceived by the human mind, both initiated and uninitiated in the technicalities of conservation science. If a documentation set can invoke in the human mind, through the senses, the same feelings, ideas, mental imagery, and perceptions as the original real-world heritage entity, documentation will have been successful. 
+
+Many current documentation approaches largely fail to excite a lay person adequately, and without sufficient correlation between the virtual and the real, the so-called documentation approach will not have completely achieved its purpose. 
+
+For example, a conservation expert might believe that his film and 3D models 'document' a complex mixed heritage site well. However, if the film and the 3D models are not convinving enough for a majority of people (lay persons, local commmunities, scholars, etc) who are not sufficiently 'motivated' by the 'documentation' to see the site come to life right before their very eyes, the 'documentation' cannot be deemed complete and entirely useful in achieveing its real purpose. This is a problem with most documentation approaches in use. 
+
+A series of interactions and interviews with individuals from different backgrounds (most importantly, those indispensible for the conservation of the heritage entity: local communities, for example) will help evaulate the success of the documentation approach used and is strongly recommended. Incorporating their feedback, observing their responses, and learning from their reactions will help drive the cardinality of the R — D set towards a progressively smaller value, making documentation more complete and 'real'.
+
+We will also see later in this document how such a proposed documentation approach will aid in heritage documentation conservation, and therefore, heritage conservation too. 
 
 
 ## The need for heritage documentation conservation
@@ -108,6 +118,7 @@ It is also important to consider the nature of this inculcation of heritage docu
 
 - What is intended here is to make heritage entities a very part and parcel of everyday life. If the individual or the community retains these impressions of our heritage (which serves as a form of documentation considering the nature of human memory) in their memories and passes them on, it is for one simple reason: these should have an important bearing on their lives or have valuable lessons to teach. This is largely how folk stories, traditions, arts, and practices have survived millennia. 
 - It is imperative to explore the right techniques to catalyze the ‘storage’ of documentation narratives in human networks. This could include film and audio-visual media screenings for individuals, communities, schoolchildren, and the youth which can help facilitate the process of inculcation of heritage in human memory.
+- As discussed earlier in this methodology, using the right 'documentation' approach will greatly facilitate the process of inculcating the documentation in the human networks since the right 'documentation' will sufficiently excite and inspire the human mind to 'remember' the narrative and its most significant elements which must be passed down generations (please refer to the proposed documentation approach in the beginning of this methodology document for details). 
 - Furthermore, activities that engage including storytelling and interactive sessions, games, and quizzes can also play a pivotal role in shaping individual and collective/community memory. 
 - It is important to use the collected metadata as described earlier (including but not limited to anecdotes, legends, lores, stories, personal/group experiences, observations, reviews, discussions, etc) since this information is often enriched with a unique emotional value that forms the value proposition when it comes to raising awareness about the respective heritage entities among the masses.
 
