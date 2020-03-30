@@ -1,7 +1,15 @@
 # Eternalizing Heritage, Art, and Culture: Heritage  Documentation & Documentation Conservation Using An Indexed, Decentralized, and Redundant System of Human and Anthropogenic Networks 
 
-Created by Devaang Jain (Rituraj Devaang) on June 15, 2019
+Created by Devaang Jain (Rituraj Devaang) on June 15, 2019,
 Email: info@sukhnidhey.com, Social/Info Networks: @SukhnidheyFilms
+
+| Version Changes                                                      | Date            |
+| ------------------------------------------------------------------- | --------------:  |
+| Created the methodology                                         | 15/06/2019  |
+| Added 'Stories' app idea and its architecture           | 22/07/2019  |
+| Emphasized need for Stories-based architecture    | 15/09/2019  |
+| Defined right documentation approach                    | 15/12/2019  |
+| Added Game algorithm 				| 12/01/2020  | 
 
 Documentation records (hereinafter referred to simply as ‘documentation’) of heritage, art, and culture (hereinafter called ‘heritage entities’ and taken to include both tangible and intangible entities such as historical monuments and folk traditions for this methodology) play a crucial role in heritage conservation. 
 
@@ -126,6 +134,56 @@ It is also important to consider the nature of this inculcation of heritage docu
 - As discussed earlier in this methodology, using the right 'documentation' approach will greatly facilitate the process of inculcating the documentation in the human networks since the right 'documentation' will sufficiently excite and inspire the human mind to 'remember' the narrative and its most significant elements which must be passed down generations (please refer to the proposed documentation approach at the beginning of this methodology document for details). 
 - Furthermore, activities that engage including storytelling and interactive sessions, games, and quizzes can also play a pivotal role in shaping individual and collective/community memory. 
 - It is important to use the collected metadata as described earlier (including but not limited to anecdotes, legends, lores, stories, personal/group experiences, observations, reviews, discussions, etc) since this information is often enriched with a unique emotional value that forms the value proposition when it comes to raising awareness about the respective heritage entities among the masses.
+
+### A novel game algorithm for purging human networks and facilitating information storage and retrieval
+
+Proposed here is a novel algorithm that considers human networks in the light of graph theoretic and network science approaches. Consider a community of individuals represented as a graph where each vertex corresponds to a member of the community and the edges represent information flow from one individual to another. 
+
+Thus, the resulting community network can be visualized as a directed graph with the ‘human’ vertices functioning as computing nodes interacting with each other through the edges. 
+
+-The heritage documentation conservation approach now requires that the graph have maximal in-degree (sources of information for an individual) and out-degree (number of individuals to whom information is passed on to). 
+-Ideally, there should be no isolated nodes in keeping with the principle of redundancy. 
+-We do not need just information sources; the key is to achieve information exchange/flow in the network. This will help ascertain the validity of the information shared around. 
+-Promoting information flow in the network will be achieved by:
+
+  * Interest: The greater the individuals’ interest in heritage, the greater will be the likelihood of information exchange in the network. This interest can be either extant in the individual or be created over time.
+  * Making it a ‘part of life’
+  * Incentivization: Rewarding the network nodes. These incentives can take many forms, including technological/anthropogenically-derived such as social media ‘likes’.
+  * Entertainment: One of the key drivers that will facilitate greater information flow is if it can result in entertainment for those who indulge in this activity, as this has been known to be a time-tested way for greater engagement. Gamification of information flow can play a pivotal role in this regard. For instance, treasure hunts, wherein information/stories (in the form of videos, text, etc) could be hidden virtually through AR (Augmented reality) and MR (Mixed Reality) at specific places on ancient heritage sites, with these media being tagged at locations (wit apps such as WallaMe) can prove to be of value.
+
+#### Characteristics of the human networks
+
+The proposed game code functions like a program running on the human brain on these network nodes, with the aim of accumulating greater information about heritage on the node memory.
+
+The human nodes can be seen to have certain characteristics, much in the same way computing nodes in a network have their own technical specifications including CPU cores and memory. 
+
+The following are the characteristics of the human nodes running the game code:
+
+* Memory: Signifies the information acquired/gathered by the individual over the years. Numerically, this could be measured by the subject’s age, which will stand as an indicator of his memory bank volume.
+* Mobility: The more mobile the individual (physically and non-physically), the greater the likelihood of his memory being deeper. While physical mobility entails the subject’s daily life interactions with those around him in the real world, non-physical mobility pertains to the individual’s activity on social media and other technological platforms such as the web. The more tech-savvy an individual, the more his physical mobility.
+* Computation: This refers to the analysis abilities of the individual, akin to the processing power of a CPU. The analytical abilities are used to process the information gathered based on perceptions derived from the memory. The node, here, behaves like a deep neural network that trains itself as it matures over time. The result of this computation is acquired knowledge.
+* Impressionable memory: Signifies the free memory on the subject that is open to new ideas and thoughts. 
+
+#### ‘Kahasuni’: Game code algorithm
+
+
+
+‘Kahasuni’, literally “tell/listen” is a multi-player game that seeks to accomplish the objectives stated above. As the flowchart above illustrates, in each turn, you either tell a story or listen to a story. The game rewards two players: the one whose story has the highest number of carriers and the player who carries the most stories. 
+
+A number of heritage-related stories are passed on from one human node to another. Each node analyzes the information before passing it on. The game, which begins with a set of stories, after one successful run, will end in a way that reveals the stories that were most likely to be true indeed. It will thus serve to help separate genuine cultural narratives from potential myths, all while strengthening the community and individual memory network. 
+
+The following is the game code algorithm.
+
+1. Start the timer. Identify the members who will act as the story origins. These will be the individuals who will recall microstories (ideally narrated within seconds) The number of story origin individuals (and hence the number of stories in the game) depends on the size of the whole group. The greater the size of the group, the more the number of story origins that can be accomodated.
+2. Alternate the turn: listen/ tell the story.
+3. If it’s the turn to tell the story, tell the story to the suitable subject as determined through the previous turn (listen). Also increment your StoryCount variable.
+4. If it’s the turn to listen, listen to the story told to you. Analyze it and think: is it likely to be true or false? If it’s true, find someone immediately younger than you are (just younger than you). You’ll tell him/her the story in the next turn.
+5. If it’s the turn to listen and the story is likely to be false, find someone immediately older than you (just older than you). You’ll tell him/her the story in the next turn.
+6. If you were listening and happen to be the oldest member in the group, eliminate the story origin (player). 
+7. After an agreed time interval, stop the timer. All telling/listening activities must now cease. Once the timer stops, ask all the youngest members in the group what stories they were told/were about to tell.
+8. For all reported stories from step-7, count how many people heard/told the story (ask them). This is the CarrierCount variable for each story.
+9. The winning story and origin (player) is the member whose story has the highest number of carriers or the largest CarrierCount value.
+10. The second winner is the player who has the highest StoryCount value. He/she has been the carrier of the maximum number of stories in the group during the game. 
 
 
 ## The Decentralized and Redundant Indexing Mechanism 
