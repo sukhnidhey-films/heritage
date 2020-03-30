@@ -166,9 +166,7 @@ The following are the characteristics of the human nodes running the game code:
 
 #### ‘Kahasuni’: Game code algorithm
 
-
-
-‘Kahasuni’, literally “tell/listen” is a multi-player game that seeks to accomplish the objectives stated above. As the flowchart above illustrates, in each turn, you either tell a story or listen to a story. The game rewards two players: the one whose story has the highest number of carriers and the player who carries the most stories. 
+‘Kahasuni’, literally “tell/listen” is a multi-player game that seeks to accomplish the objectives stated above. In each turn, you either tell a story or listen to a story. The game rewards two players: the one whose story has the highest number of carriers and the player who carries the most stories. 
 
 A number of heritage-related stories are passed on from one human node to another. Each node analyzes the information before passing it on. The game, which begins with a set of stories, after one successful run, will end in a way that reveals the stories that were most likely to be true indeed. It will thus serve to help separate genuine cultural narratives from potential myths, all while strengthening the community and individual memory network. 
 
