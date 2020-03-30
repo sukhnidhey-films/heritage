@@ -145,10 +145,11 @@ Thus, the resulting community network can be visualized as a directed graph with
 -Ideally, there should be no isolated nodes in keeping with the principle of redundancy. 
 -We do not need just information sources; the key is to achieve information exchange/flow in the network. This will help ascertain the validity of the information shared around. 
 -Promoting information flow in the network will be achieved by:
-..* Interest: The greater the individuals’ interest in heritage, the greater will be the likelihood of information exchange in the network. This interest can be either extant in the individual or be created over time.
-..* Making it a ‘part of life’
-..* Incentivization: Rewarding the network nodes. These incentives can take many forms, including technological/anthropogenically-derived such as social media ‘likes’.
-..* Entertainment: One of the key drivers that will facilitate greater information flow is if it can result in entertainment for those who indulge in this activity, as this has been known to be a time-tested way for greater engagement. Gamification of information flow can play a pivotal role in this regard. For instance, treasure hunts, wherein information/stories (in the form of videos, text, etc) could be hidden virtually through AR (Augmented reality) and MR (Mixed Reality) at specific places on ancient heritage sites, with these media being tagged at locations (wit apps such as WallaMe) can prove to be of value.
+
+  * Interest: The greater the individuals’ interest in heritage, the greater will be the likelihood of information exchange in the network. This interest can be either extant in the individual or be created over time.
+  * Making it a ‘part of life’
+  * Incentivization: Rewarding the network nodes. These incentives can take many forms, including technological/anthropogenically-derived such as social media ‘likes’.
+  * Entertainment: One of the key drivers that will facilitate greater information flow is if it can result in entertainment for those who indulge in this activity, as this has been known to be a time-tested way for greater engagement. Gamification of information flow can play a pivotal role in this regard. For instance, treasure hunts, wherein information/stories (in the form of videos, text, etc) could be hidden virtually through AR (Augmented reality) and MR (Mixed Reality) at specific places on ancient heritage sites, with these media being tagged at locations (wit apps such as WallaMe) can prove to be of value.
 
 #### Characteristics of the human networks
 
