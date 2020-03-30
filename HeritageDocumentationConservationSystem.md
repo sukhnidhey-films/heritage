@@ -166,15 +166,17 @@ The following are the characteristics of the human nodes running the game code:
 
 #### ‘Kahasuni’: Game code algorithm
 
-‘Kahasuni’, literally “tell/listen” is a multi-player game that seeks to accomplish the objectives stated above. In each turn, you either tell a story or listen to a story. The game rewards two players: the one whose story has the highest number of carriers and the player who carries the most stories. 
+
+
+‘Kahasuni’, literally “tell/listen” is a multi-player game that seeks to accomplish the objectives stated above. As the flowchart above illustrates, in each turn, you either tell a story or listen to a story. The game rewards two players: the one whose story has the highest number of carriers and the player who carries the most stories. 
 
 A number of heritage-related stories are passed on from one human node to another. Each node analyzes the information before passing it on. The game, which begins with a set of stories, after one successful run, will end in a way that reveals the stories that were most likely to be true indeed. It will thus serve to help separate genuine cultural narratives from potential myths, all while strengthening the community and individual memory network. 
 
 The following is the game code algorithm.
 
-1. Start the timer. Identify the members who will act as the story origins. These will be the individuals who will recall microstories (ideally narrated within seconds) The number of story origin individuals (and hence the number of stories in the game) depends on the size of the whole group. The greater the size of the group, the more the number of story origins that can be accomodated.
+1. Start the timer. Identify the members who will act as the story origins. These will be the individuals who will recall microstories (ideally narrated within seconds) The number of story origin individuals (and hence the number of stories in the game) depends on the size of the whole group. The greater the size of the group, the more the number of story origins that can be accommodated.
 2. Alternate the turn: listen/ tell the story.
-3. If it’s the turn to tell the story, tell the story to the suitable subject as determined through the previous turn (listen). Also increment your StoryCount variable.
+3. If it’s the turn to tell the story, tell the story to a suitable subject as determined through the previous turn (listen). Also increment your StoryCount variable.
 4. If it’s the turn to listen, listen to the story told to you. Analyze it and think: is it likely to be true or false? If it’s true, find someone immediately younger than you are (just younger than you). You’ll tell him/her the story in the next turn.
 5. If it’s the turn to listen and the story is likely to be false, find someone immediately older than you (just older than you). You’ll tell him/her the story in the next turn.
 6. If you were listening and happen to be the oldest member in the group, eliminate the story origin (player). 
