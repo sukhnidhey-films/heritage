@@ -102,6 +102,7 @@ A third component of the Stories App would be the curation engine. The curation 
 Users could see each others' 'stories' and like, share, and comment. They could follow each others' accounts on the app just like the common social media apps. 
 
 #### The Primary Aim of the Stories App 
+
 It is strongly intended to make the Stories App the one-stop and highly sought-after place for people across the world who are curious to know the 'stories' behind everything. It'll be the app people visit to know the many 'histories' and stories associated with an ancient site at one place— information difficult to catch hold of otherwise.
 
 These stories would also help provide the heritage entities global and local exposure and drive tourism and development as well with obvious advantages for local economies and communities. 
@@ -141,10 +142,10 @@ Proposed here is a novel algorithm that considers human networks in the light of
 
 Thus, the resulting community network can be visualized as a directed graph with the ‘human’ vertices functioning as computing nodes interacting with each other through the edges. 
 
--The heritage documentation conservation approach now requires that the graph have maximal in-degree (sources of information for an individual) and out-degree (number of individuals to whom information is passed on to). 
--Ideally, there should be no isolated nodes in keeping with the principle of redundancy. 
--We do not need just information sources; the key is to achieve information exchange/flow in the network. This will help ascertain the validity of the information shared around. 
--Promoting information flow in the network will be achieved by:
+- The heritage documentation conservation approach now requires that the graph have maximal in-degree (sources of information for an individual) and out-degree (number of individuals to whom information is passed on to). 
+- Ideally, there should be no isolated nodes in keeping with the principle of redundancy. 
+- We do not need just information sources; the key is to achieve information exchange/flow in the network. This will help ascertain the validity of the information shared around. 
+- Promoting information flow in the network will be achieved by:
 
   * Interest: The greater the individuals’ interest in heritage, the greater will be the likelihood of information exchange in the network. This interest can be either extant in the individual or be created over time.
   * Making it a ‘part of life’
