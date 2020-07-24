@@ -10,6 +10,7 @@ Email: info@sukhnidhey.com, Social/Info Networks: @SukhnidheyFilms
 | Emphasized need for Stories-based architecture    | 15/09/2019  |
 | Defined right documentation approach                    | 15/12/2019  |
 | Added Game algorithm 				| 12/01/2020  | 
+| Added notes for game algorithm optimization 	| 24/07/2020  | 
 
 Documentation records (hereinafter referred to simply as ‘documentation’) of heritage, art, and culture (hereinafter called ‘heritage entities’ and taken to include both tangible and intangible entities such as historical monuments and folk traditions for this methodology) play a crucial role in heritage conservation. 
 
@@ -167,6 +168,8 @@ The following are the characteristics of the human nodes running the game code:
 
 #### ‘Kahasuni’: Game code algorithm
 
+
+
 ‘Kahasuni’, literally “tell/listen” is a multi-player game that seeks to accomplish the objectives stated above. As the flowchart above illustrates, in each turn, you either tell a story or listen to a story. The game rewards two players: the one whose story has the highest number of carriers and the player who carries the most stories. 
 
 A number of heritage-related stories are passed on from one human node to another. Each node analyzes the information before passing it on. The game, which begins with a set of stories, after one successful run, will end in a way that reveals the stories that were most likely to be true indeed. It will thus serve to help separate genuine cultural narratives from potential myths, all while strengthening the community and individual memory network. 
@@ -184,6 +187,11 @@ The following is the game code algorithm.
 9. The winning story and origin (player) is the member whose story has the highest number of carriers or the largest CarrierCount value.
 10. The second winner is the player who has the highest StoryCount value. He/she has been the carrier of the maximum number of stories in the group during the game. 
 
+##### Optimizations for Game Code Algorithm
+
+A number of optimizations for the number of players, the number of stories in the beginning, etc can be worked out using mathematical analysis. However, it is important to ensure that the algorithm remains simple and memorable, with as few decision blocks as possible. 
+
+An excessive use of complex decision-making complicates the game. Besides, a game might imitate a computer program but the human factor necessitates that adequate autonomy be left with the players. 
 
 ## The Decentralized and Redundant Indexing Mechanism 
 
